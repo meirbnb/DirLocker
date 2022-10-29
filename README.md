@@ -5,8 +5,8 @@ System utility that enables locking directories using different passwords.
 <img src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/1.png" data-canonical-src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/1.png" width="250"/>
 
 <div>
-<img src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/2.png" data-canonical-src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/2.png" width="250" hspace = "20"/>
-<img src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/4.png" data-canonical-src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/4.png" width="250" hspace = "20"/>
+<img src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/2.png" data-canonical-src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/2.png" width="250"/>
+<img src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/4.png" data-canonical-src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/4.png" width="250"/>
 </div>
  
 <img src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/3.png" data-canonical-src="https://github.com/meirbnb/DirLocker/blob/main/screenshots/3.png" width="250"/>
